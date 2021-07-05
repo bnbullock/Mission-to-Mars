@@ -44,3 +44,5 @@ Our Client has asked us to build a web application encompassing specific feature
 ## Summary Analysis
 
 - The display results have generally met the deliverables and the site performed as expected. Additional website images and content can be easily added using the framework encompassed in this design. Many different stylized elements can be also added for additional viewability as required.
+
+![Website](images/website.png)
