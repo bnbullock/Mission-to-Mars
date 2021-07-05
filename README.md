@@ -35,6 +35,7 @@ Our Client has asked us to build a web application encompassing specific feature
 - We added te following features:
   - Added mobile-responsiveness for different devices
   - Reduced the Hemispheric images to smaller size with width="200"
+  - Increased the Mars Facts table for a larger width and added mobile responsiveness
   - Moved the Memisphere title to above the image
   - Changed the background color for Mission to Mars jumbotron
   - Colorized section titles
