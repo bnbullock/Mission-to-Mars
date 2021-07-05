@@ -27,7 +27,7 @@ Our Client has asked us to build a web application encompassing specific feature
 
 ### Update the Web App
 
-- The web application could then use the updated scraping function to allocate storage in the Mongo Db for the new hemispheric information intended for adding to the website as requested by the client. Using this new updated route required that we save the hemispheric scraping as a new function that could be accessed by the Web App. We are then able to populate the index.html hemispheres information and diplay them on the website as 
+- The web application could then use the updated scraping function to allocate storage in the Mongo Db for the new hemispheric information intended for adding to the website as requested by the client. Using this new updated route required that we save the hemispheric scraping as a new function that could be accessed by the Web App. We are then able to populate the index.html hemispheres information and diplay them on the website as images.
 
 
 ### Add Bootstrap Components
@@ -42,4 +42,4 @@ Our Client has asked us to build a web application encompassing specific feature
 
 ## Summary Analysis
 
-- Analysis here
+- The display results have generally met the deliverables and the site performed as expected. Additional website images and content can be easily added using the framework encompassed in this design. Many different stylized elements can be also added for additional viewability as required.
